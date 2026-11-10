@@ -1,7 +1,8 @@
 
-# Welcome to your CDK Python project!
+# Welcome to your CDK Python project! Python CDK for fck nat
 
-This is a blank project for CDK development with Python.
+This is a basic fck nat template for CDK with Python.
+The template uses a T4G Nano instance and an elastic IP.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
